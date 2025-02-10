@@ -1,4 +1,4 @@
-# RainSeverityClassification
+# Rain Severity Classification
 
 This repository presents the source code related to the [paper](https://arxiv.org/abs/2407.12663) "Albanese, Andrea, et al. "Is That Rain? Understanding Effects on Visual Odometry Performance for Autonomous UAVs and Efficient DNN-based Rain Classification at the Edge." arXiv preprint arXiv:2407.12663 (2024)." The paper presents the study and analysis through laboratory experiments of the effect of rainy conditions during UAV missions. The experimental setup is detailed in the paper.
 
